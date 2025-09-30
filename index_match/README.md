@@ -37,6 +37,6 @@ So why wouldn't you just the the original table? If your needs are very basic, t
 - **Lookup Direction** - Index match can search for a value in any direction, not just left to right, and you don't have to count columns to populate like a vlookup.
 - **Dynamic Ranges & Column Insertion** - It doesn't break if columns are added or deleted. Vlookup is not as dynamic; if a cell is moved, index match can still find it, whereas vlookup formulas will often get confused and break or reference the wrong cells when things get shifted, resulting in incorrect data.
 - **Performance** - Index match is more efficient than vlookup. Vlookup often slows down reports.
-- **Multiple Criteria** - Index match is more powerful for complex referencing. For example, Index match can be used with if statements. I have used a SUMIF INDEX MATCH to get a Year to Date total from a table on a different sheet.
+- **Multiple Criteria** - Index match is more powerful for complex referencing. Index match can be used with if statements. For example, I have used a SUMIF INDEX MATCH to get a Year to Date total from a table on a different sheet.
 
 

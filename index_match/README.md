@@ -4,7 +4,7 @@
 September 2025
 
 ### Background/Context:
-There is a table of sales by date and shirt color. Your stakeholder asks you to get a summary of sales by color for the previous month and to deliver this output every month. Instead of copying the title column from the first table and the next months column for each ouptut, you'd rather create an automated version to pull this data.
+There is a table of sales by date and shirt color. A stakeholder asks to get a summary of sales by color for the previous month and to deliver this output every month. Instead of copying the title column from the first table and the next months column for each ouptut, you'd rather create an automated version to pull this data.
 
 ### Objective:
 Build a flexible look up formula to summarize the sales by color to that quickly flips between months without having to manually search and copy and paste the correct data. This will save time and ensure accuracy by eliminating any room for user error.
